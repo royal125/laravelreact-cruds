@@ -1,0 +1,32 @@
+input{
+    margin: 5px;
+}
+
+body{
+  
+    margin: 0px !important;
+    padding: 0px !important;
+    overflow-x: hidden;
+}
+.alert{
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: fit-content;
+}
+table{
+    margin: auto;
+    width: 98% !important;
+}
+
+/* Add this CSS to your style.css or a separate CSS file */
+
+.navbar {
+    transition: all .15s  !important;
+  }
+  
+ 
+  

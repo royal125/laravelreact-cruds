@@ -1,0 +1,81 @@
+body{
+	background: url(https://images.unsplash.com/photo-1452800185063-6db5e12b8e2e) no-repeat center center fixed;
+	background-size: cover;
+}
+
+h2{
+	margin-bottom: 40px !important;
+}
+.frm{
+    width:50% !important;
+}
+
+h2, label{
+	font-family: "Open Sans";
+	font-weight: 700;
+}
+
+.btn-default{
+	font-family: "Open Sans";
+	font-weight: 400;
+}
+
+
+
+form > h2{
+	text-align: center;
+	color: #ccc;
+}
+
+label{
+	color: rgba(0, 0, 0, .7);
+}
+
+.well{
+	border: 20px solid hsla(0, 0%, 100%, .2);
+	background: hsla(0, 0%, 100%, .5);
+	background-clip: padding-box;
+	border-radius: 45px;
+	margin-top: 45px;
+}
+
+.form-control{
+	background-color: transparent !important;
+	border: none !important;
+	box-shadow: none !important;
+	border-bottom: 1px solid #ccc;
+	border-radius: 0;
+}
+label{
+   margin-left: 2rem !important;
+   display:flex !important;
+    }
+
+
+input{
+    border: none;
+    padding: 10px !important;
+}
+.form-control{
+    border: none;
+    margin: 10px;
+}
+
+.btn-default{
+	border-radius: 45px !important;
+	background-color: rgb(56, 209, 115) !important;
+    color: rgba(0, 0, 0, 0.7);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 5px;
+    
+	border: none !important;
+}
+
+.btn-default:hover{
+	background-color: hsla(0, 0%, 100%, .5);
+}
+
+
+
+
+
